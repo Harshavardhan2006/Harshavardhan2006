@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kokkonda Harshavardhan
 ==============================================================================================================================================
 
-Frontend Developer
 ------------------
 
 "I am a full-time computer science student who has completed learning HTML, CSS, and JavaScript, and I am currently learning new frameworks."
 
 * ✉️  You can contact me at [kokkondaharshavardhan@gmail.com](mailto:kokkondaharshavardhan@gmail.com)
-* 🤝  I'm open to collaborating on Frontend Development
+* 🤝  I'm open for collaboration
 
 ### Skills
 
